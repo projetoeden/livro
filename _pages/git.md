@@ -9,5 +9,3 @@ permalink: http://projetoeden.com/git/
 published: true
 ---
 [gh_issues]
-
-[gh_searchform]
