@@ -8,4 +8,4 @@ layout: page
 permalink: http://projetoeden.com/git/
 published: true
 ---
-[gh_repo]
+[gh_milestones]
