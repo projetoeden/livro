@@ -8,4 +8,4 @@ layout: page
 permalink: http://projetoeden.com/o-livro/
 published: true
 ---
-Ainda não começamos a escrever o livro. Por enquanto divirta-se pesquisando o <a href="http://projetoeden.com/wiki/universo/">Universo</a> criado ou lendo <a href="http://projetoeden.com/contos-marginais/">Contos</a>
+Ainda não começamos a escrever a história principal. Por enquanto divirta-se pesquisando o <a href="http://projetoeden.com/wiki/universo/">Universo</a> criado ou lendo <a href="http://projetoeden.com/contos-marginais/">Contos</a>
