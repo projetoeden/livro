@@ -8,8 +8,14 @@ layout: page
 permalink: http://projetoeden.com/
 published: true
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel magna sodales, molestie dolor eu, finibus turpis. Aliquam erat volutpat. Proin malesuada lacus lectus, non accumsan orci porta eget. Phasellus molestie eget mauris congue tristique. Fusce iaculis neque non tortor commodo hendrerit ut at dolor. Aenean dolor felis, viverra sed dictum vel, hendrerit et nunc. Sed eu dignissim orci. Etiam eget tellus finibus, luctus odio sed, feugiat ante. Aliquam consequat urna nec gravida cursus. Cras quis nisl est. Vestibulum ac nisi dui. Integer quis velit purus. Fusce rhoncus, ex eget vulputate scelerisque, est enim blandit urna, a imperdiet ipsum nisi suscipit est. In tempor pharetra dolor, lacinia molestie dui interdum in. Morbi tincidunt sollicitudin felis, in volutpat libero tempor non.
+&nbsp;
 
-Vestibulum finibus mattis augue, nec iaculis elit volutpat ac. Maecenas et sodales lectus. Fusce facilisis feugiat tortor, a molestie ex vehicula vel. Phasellus eleifend laoreet rutrum. Praesent ultricies nisi molestie, interdum elit ut, interdum nisl. Vestibulum accumsan dignissim risus, sed bibendum mi lacinia vitae. Curabitur lobortis nec eros in vulputate. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec a pulvinar nibh.
+Se você pudesse contribuir com uma grande história como você faria? Se pudesse escrever um conto para o Senhor dos Anéis, alguma coisa para Star Wars, para o universo de Matrix, como seria? Iria fazer parte da história, seria algo paralelo, seria algo distante mas que influenciaria a grande trama principal?
 
-Nunc vitae posuere enim. Nulla tincidunt lacus vitae ipsum tempor, quis varius ante mattis. Nunc porttitor orci pharetra ligula porttitor rutrum. Donec sit amet ante eget augue pulvinar elementum at in sapien. Sed vitae nulla tortor. Mauris ut metus a justo hendrerit gravida eget a dui. Etiam ut dignissim lacus, ac suscipit nisl. Sed quis odio turpis. Morbi fermentum imperdiet neque, at faucibus metus luctus dignissim.
+Essa é nossa ideia, juntar gente com idéias incríveis em um mundo de cyberpunk, com contos, personagens, cenários fantásticos, grandes tramas e juntar tudo isso em uma grande história. Achou fácil, junte-se a nós e divirta-se, achou difícil, aceite este desafio.
+
+Quem sabe no final teremos uma história digna de ser contada e lançada, com os devidos direitos aos nossos amigos co autores que nos ajudaram durante essa saga.
+
+Mas se você apenas gosta do tema e quer fazer parte, venha conosco para o universo que criamos e dê suas opiniões.
+
+Enjoy.
