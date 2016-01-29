@@ -8,4 +8,4 @@ layout: page
 permalink: http://projetoeden.com/universo/
 published: true
 ---
-[pagelist post_type="teste"]
+[pagelist post_type="universo"]
