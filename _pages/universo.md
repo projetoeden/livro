@@ -8,4 +8,4 @@ layout: page
 permalink: http://projetoeden.com/universo/
 published: true
 ---
-[pagelist post_type="item-de-universo"]
+[pagelist post_type="item-do-universo"]
