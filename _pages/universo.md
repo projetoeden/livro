@@ -8,6 +8,6 @@ layout: page
 permalink: http://projetoeden.com/universo/
 published: true
 ---
-[insert_php] wp_list_pages( 'post_type=my_custom_type&title_li=' ); [/insert_php]
+[insert_php] wp_list_pages( 'post_type=universo&title_li=' ); [/insert_php]
 
 [pagelist post_type="universo"]
