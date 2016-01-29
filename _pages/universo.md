@@ -8,4 +8,4 @@ layout: page
 permalink: http://projetoeden.com/universo/
 published: true
 ---
-[wp_sitemap_page only="universo" display_title="false"]
+[pagelist]
