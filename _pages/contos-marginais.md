@@ -16,4 +16,8 @@ Pronto, agora você tem a atenção de todos neste mundo, para contar sua histó
 
 Bom, isso fica pra depois, agora vamos a sua história…
 
+<hr />
+
+&nbsp;
+
 [pagelist post_type="conto-marginal" sort_column="post_date" sort_order="desc"]
