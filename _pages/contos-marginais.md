@@ -7,7 +7,9 @@ post_excerpt: ""
 layout: page
 permalink: http://projetoeden.com/contos-marginais/
 published: true
+xyz_smap:
+  - "1"
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean elementum faucibus vulputate. Aenean interdum dapibus elementum. Nunc vehicula sagittis erat, a tincidunt nibh pellentesque eu. In hac habitasse platea dictumst. Phasellus nibh turpis, viverra id sollicitudin et, tincidunt in lectus. Maecenas hendrerit condimentum lacus, sed tincidunt purus. Nullam posuere congue dui at condimentum. Vestibulum massa ligula, lobortis id volutpat ut, tempus id velit. Nam aliquam purus ut accumsan laoreet. Nullam fermentum sed neque nec tempor. Sed vel orci sed risus mollis convallis sed sit amet enim. Mauris ornare semper risus vitae dignissim. Cras finibus ut lorem et aliquam. Vivamus suscipit consectetur sapien, sit amet mollis lorem ultrices quis. Donec dapibus cursus orci in ullamcorper. Praesent elementum, nisi vel ullamcorper dignissim, mi magna malesuada elit, et venenatis urna ante vel nibh.
-
-[pagelist post_type="conto-marginal" sort_column="post_date" sort_order="desc"]
+Você não quer estar no foco de tudo, você gosta de estar próximo, mas quer fazer parte, parte da história, dar seu toque pessoal, mudar uma coisa aqui e outra ali. Mas não quer que eles te vejam, não nasceu para os holofotes, mas quem sabe talvez apareça, de leve, assim sem chamar tanta atenção. Você tem muito o que perder para se arriscar, mas tem uma história pra contar.
+Pronto, agora você tem a atenção de todos neste mundo, para contar sua história e quem sabe fazer parte. Sendo assim, coloque o seu cérebro pra pensar, isso se você ainda não trocou essa droga por algum implante, mas se essa for a sua condição, porque não? Mas vou ficar muito assustado e teremos que ir atrás de você, uma máquina assim não pode cair em mãos erradas. 
+Bom, isso fica pra depois, agora vamos a sua história…
